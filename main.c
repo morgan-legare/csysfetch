@@ -35,6 +35,10 @@ int main() {
 	
 	strcpy(command, "used=$(free -m | awk '/Mem:/ {print $3}') ; total=$(free -m | awk '/Mem:/ {print $2}') ; echo Memory: ${used}MiB / ${total}MiB");
 	system(command);
+
+	strcpy(command, "utime=$(uptime | awk -F'( |, |:)+' '{print $6, $7\",\", $8, \"hours,\",$9,\"minutes\"}') ; echo Uptime: $utime");
+	system(command);
+
 	strcpy(command, "echo");
 	system(command);
 
