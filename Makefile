@@ -1,5 +1,6 @@
-# Written by Morgan L
-# Makefile for csysfetch
+# WRITTEN BY MORGAN L
+# MAKEFILE FOR CSYSFETCH
+
 CC=gcc
 
 all:
@@ -11,5 +12,6 @@ all:
 install:
 	@$(CC) main.c -o csysfetch
 	@chmod 755 csysfetch
+
 run:
 	@./csysfetch
