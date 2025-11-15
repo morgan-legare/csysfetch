@@ -1,3 +1,4 @@
+# Written by Morgan L
 FILE=./data.txt 
 	if [ -f "$FILE" ]; then
 		 echo "0"
