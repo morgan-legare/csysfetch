@@ -3,7 +3,13 @@
 CC=gcc
 
 all:
-	@echo "Run \"make install\" to compile and run csysfetch." 	
+	@echo
+	@echo "Run \"make install\" to compile csysfetch." 	
+	@echo "Run \"make run\" to run csysfetch." 	
+	@echo
+
 install:
-	$(CC) *.c -o csysfetch
+	@$(CC) main.c -o csysfetch
+	@chmod 755 csysfetch
+run:
 	@./csysfetch
