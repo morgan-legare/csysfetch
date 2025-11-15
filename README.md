@@ -1,4 +1,5 @@
 # csysfetch
+<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
 csysfetch is a minimal system information fetcher written in C.
 
