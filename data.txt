@@ -3,4 +3,4 @@ Kernel: 6.17.7-arch1-1
 CPU: Intel(R) i5-9300H CPU @ 2.40GHz [cores: 8]
 GPU: NVIDIA [GeForce GTX 1650 Mobile / Max-Q]
 GPU: Intel [UHD Graphics 630]
-Memory: 2036MiB / 15828MiB
+Memory: 2303MiB / 15828MiB
