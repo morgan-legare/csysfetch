@@ -1,4 +1,4 @@
-g/ WRITTEN BY MORGAN L
+// WRITTEN BY MORGAN L
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
