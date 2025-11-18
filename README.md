@@ -25,6 +25,8 @@ DEPENDENCIES
  * bash 5.2+
  * make
  * gcc
+ * lscpu
+ * lspci
 
 
 INSTALL GUIDE

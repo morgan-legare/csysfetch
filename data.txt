@@ -1,0 +1,5 @@
+OS: Arch Linux x86_64 GNU/Linux
+Kernel: 6.17.8-arch1-1
+CPU: Intel(R) i5-9300H CPU @ 2.40GHz [cores: 8]
+GPU: Intel GT2 [UHD Graphics 630] NVIDIA [GeForce GTX 1650 Mobile / Max-Q]
+Memory: 2140MiB / 15828MiB
