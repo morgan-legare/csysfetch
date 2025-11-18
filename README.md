@@ -1,20 +1,20 @@
-
-
-<img src="./pics/logo.png" align="center" height="240px" width="550">
-
-
+<img src="./pics/logo.png" align="center" height="50px" width="450">
 
 <p align="left"><a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a></p>
+
 Csysfetch is a minimal command line system info fetcher. Csysfetch is fully supported to run on Linux, and there is work being done to bring support to macOS. Csysfetch is written in C primarily but calls upon bash commands and a bash script for it's functionality.
+
+
+<img src="./pics/csysfetchgrn.png" align="center" height="240px" width="550">
+
 
 FEATURES
 --------------------
 * Full ANSI color code support
 * Easily configurable color system
 
-<img src="./pics/csysfetchgrn.png" align="center" height="240px" width="550">
 
-<img src="./pics/csysfetchpurp.png" align="right" height="240px" width="550">
+<img src="./pics/csysfetchpurp.png" align="center" height="240px" width="550">
 
 
 
