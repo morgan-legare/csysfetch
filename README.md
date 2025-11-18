@@ -1,7 +1,4 @@
-
 <img src="./pics/logo.png" align="center" height="50px" width="450">
-
-
 
 <p align="left"><a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a></p>
 
