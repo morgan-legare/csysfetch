@@ -49,4 +49,10 @@ or
 
 
 
+OTHER LINKS
+--------------------
+
+https://codeberg.org/MrNone1/csysfetch
+
+https://github.com/morgan-legare/csysfetch
     
